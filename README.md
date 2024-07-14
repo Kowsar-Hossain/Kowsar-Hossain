@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kowsar Hossain
-<a ref="https://www.google.com/search?q=animated+coding+gif&rlz=1C1ONGR_enBD1079BD1079&oq=animate&gs_lcrp=EgZjaHJvbWUqBwgIEAAYgAQyBggAEEUYOTIQCAEQLhjHARjUAhjRAxiABDIKCAIQABixAxiABDIHCAMQABiABDIKCAQQABixAxiABDIHCAUQABiABDINCAYQABiDARixAxiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiPAtIBCTE2MTMxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#vhid=zhjSEq0Xd_DH7M&vssid=l"></a>
-
+<br>
+<br>
 *Let's connect with...* <br>
 [<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-kowsar-hossain-476bb4266/)
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/Kowsar-Hossain)
