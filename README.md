@@ -8,6 +8,8 @@
 [<img src='https://cdn-icons-png.flaticon.com/512/3670/3670124.png' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100063684969448)
 
 
+<!--  Profile Views -->
+[Profile views: ](https://gpvc.arturio.dev/kowsar-hossain)
 
 [![](https://raw.githubusercontent.com/Kowsar-Hossain/Kowsar-Hossain/master/profile-summary-card-output/calm/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Kowsar-Hossain/Kowsar-Hossain/master/profile-summary-card-output/calm/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kowsar-Hossain/Kowsar-Hossain/master/profile-summary-card-output/calm/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
