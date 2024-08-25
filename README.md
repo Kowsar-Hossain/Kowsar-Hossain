@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Kowsar Hossain
 
-<img align="right" alt="Coding" width="300" src="https://www.google.com/search?sca_esv=442ff8e4c6d9f12b&sca_upv=1&rlz=1C1ONGR_enBD1079BD1079&sxsrf=ADLYWILzfpen8yIqvW3Qtt7hOuTJeYw-kA:1724594604141&q=programmer+animated+gif&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joQcoZ-0Q2Udkt2zEybT7HdcghX_cULItgDQ-ic0tx97DazhjEcGepiAwATfo9G6CRCAw3CuxMGhix6Y2lWjj00EmmCZhetgIxbt27XRvsHvy5TkrQ&sa=X&ved=2ahUKEwj7p4vGp5CIAxUs9DgGHRLOGl8QtKgLegQIExAB&biw=1422&bih=612&dpr=1.35#vhid=XialIsv7hGa1mM&vssid=mosaic">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 # 💫 About Me:
 🤝 I’m a frontend developer<br>🔭 I’m currently working on Web application projects<br>👯 I’m also learning on RESTful APIs<br>🌱 I’m currently learning PHP and Laravel<br>💬 Ask me about Web development
