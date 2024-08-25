@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 # 💫 About Me:
-🤝 I’m a frontend developer<br>🔭 I’m currently working on Web application projects<br>👯 I’m currently learning on RESTful APIs<br>🌱 I’m currently learning PHP and Laravel<br>💬 Ask me about Web and App development
+🤝 I’m a frontend developer<br>🔭 I’m currently working on Web application projects<br>👯 I’m also learning on RESTful APIs<br>🌱 I’m currently learning PHP and Laravel<br>💬 Ask me about Web development
 
 *Let's connect with...* <br>
 [<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-kowsar-hossain-476bb4266/)
