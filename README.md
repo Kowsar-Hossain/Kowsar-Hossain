@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Kowsar Hossain
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
+<img align="right" alt="Coding" height="250" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 # 💫 About Me:
 🤝 I’m a frontend developer<br>🔭 I’m currently working on Web application projects<br>👯 I’m also learning on RESTful APIs<br>🌱 I’m currently learning PHP and Laravel<br>💬 Ask me about Web development
