@@ -26,4 +26,7 @@
 <!--  Profile Views -->
 [Profile views: ](https://gpvc.arturio.dev/Kowsar-Hossain)
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]((https://www.facebook.com/profile.php?id=100063684969448) [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23E4405F.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21478943/md-kowsar-hossain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kowsar-hossain-476bb4266/) 
+
 <img align="center" src="https://profile-counter.glitch.me/{Kowsar-Hossain}/count.svg" /> 
