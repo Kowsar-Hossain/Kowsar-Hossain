@@ -1,7 +1,7 @@
 
 ## Hi there 👋, I'm Kowsar Hossain
 
-<img align="right" alt="Coding" height="200" width="300" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="Coding" height="200" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4502924-Python-developer-animation&psig=AOvVaw1cjg6jLrT2Xp3L6ZDkcPqd&ust=1724865307280000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi08pnWlYgDFQAAAAAdAAAAABAJ">
 
 # 🚀 About Me :
 🤝 I’m a Frontend Developer<br>🧠 I'm learning Node.js and React<br>🔭 I’m currently working on Web application projects<br>🌱 I’m currently learning PHP and Laravel<br>💬 Ask me about Web development
