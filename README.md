@@ -12,9 +12,65 @@
 
 ## 🌐 Let's connect with...
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100063684969448) [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23E4405F.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21478943/md-kowsar-hossain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kowsar-hossain-476bb4266/) [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://web.telegram.org/a/)
+## 🛠️ Skills Overview  
+### ✔ When I code, I rely on
 
-## 🛠 Skills:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=blank&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+<table>
+  <tr>
+    <th>Skills Overview</th>
+    <th>Technologies</th>
+  </tr>
+
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-30363D?style=flat&logo=javascript&logoColor=F7DF1E&borderRadius=20" />
+      <!-- <img src="https://img.shields.io/badge/TypeScript-30363D?style=flat&logo=typescript&logoColor=3178C6&borderRadius=20" /> -->
+      <img src="https://img.shields.io/badge/C%2B%2B-30363D?style=flat&logo=cplusplus&logoColor=00599C&borderRadius=20" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Frontend Technologies</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-30363D?style=flat&logo=html5&logoColor=E34F26&borderRadius=20" />
+      <img src="https://img.shields.io/badge/CSS3-30363D?style=flat&logo=css3&logoColor=1572B6&borderRadius=20" />
+      <img src="https://img.shields.io/badge/TailwindCSS-30363D?style=flat&logo=tailwindcss&logoColor=06B6D4&borderRadius=20" />
+      <img src="https://img.shields.io/badge/React-30363D?style=flat&logo=react&logoColor=61DAFB&borderRadius=20" />
+      <!-- <img src="https://img.shields.io/badge/Next.js-30363D?style=flat&logo=nextdotjs&logoColor=white&borderRadius=20" /> -->
+      <!-- <img src="https://img.shields.io/badge/Redux-30363D?style=flat&logo=redux&logoColor=764ABC&borderRadius=20" /> -->
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-30363D?style=flat&logo=node.js&logoColor=339933&borderRadius=20" />
+      <img src="https://img.shields.io/badge/Express-30363D?style=flat&logo=express&logoColor=white&borderRadius=20" />
+      <!-- <img src="https://img.shields.io/badge/Mongoose-30363D?style=flat&logo=mongoose&logoColor=880000&borderRadius=20" /> -->
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-30363D?style=flat&logo=mongodb&logoColor=47A248&borderRadius=20" />
+      <img src="https://img.shields.io/badge/MySQL-30363D?style=flat&logo=mysql&logoColor=4479A1&borderRadius=20" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-30363D?style=flat&logo=git&logoColor=F05033&borderRadius=20" />
+      <img src="https://img.shields.io/badge/GitHub-30363D?style=flat&logo=github&logoColor=white&borderRadius=20" />
+      <img src="https://img.shields.io/badge/Firebase-30363D?style=flat&logo=firebase&logoColor=FFCA28&borderRadius=20" />
+      <img src="https://img.shields.io/badge/JWT-30363D?style=flat&logo=jsonwebtokens&logoColor=white&borderRadius=20" />
+      <img src="https://img.shields.io/badge/Postman-30363D?style=flat&logo=postman&logoColor=FF6C37&borderRadius=20" />
+      <img src="https://img.shields.io/badge/VS_Code-30363D?style=flat&logo=visual-studio-code&logoColor=0078D4&borderRadius=20" />
+    </td>
+  </tr>
+</table>
 
 <!--  Profile Views -->
 [Profile views: ](https://gpvc.arturio.dev/Kowsar-Hossain)
