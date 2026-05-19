@@ -8,7 +8,7 @@
 
 
 # 🚀 About Me :
-🤝 I’m a MERN Stack Developer<br>🧠 I'm learning Node.js and React<br>🔭 I’m currently working on Web application projects<br>💬 Ask me about Web development
+🤝 I am pupil at Codeforces <br>🧠 I'm a Full Stack Developer<br>🔭 I’m currently working on Web application projects<br>💬 Ask me about Web development & Problem Solving
 
 ## 🌐 Let's connect with...
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100063684969448) [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23E4405F.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21478943/md-kowsar-hossain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kowsar-hossain-476bb4266/) [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://web.telegram.org/a/)
